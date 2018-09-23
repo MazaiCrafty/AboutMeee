@@ -1,0 +1,6 @@
+name: AboutMeee
+main: mazaicrafty\aboutmeee\Main
+version: 000
+api: 4.0.0
+author: MazaiCrafty
+load: POSTWORLD
